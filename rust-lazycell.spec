@@ -5,8 +5,8 @@
 %global crate lazycell
 
 Name:           rust-%{crate}
-Version:        1.2.1
-Release:        6%{?dist}
+Version:        1.3.0
+Release:        1%{?dist}
 Summary:        Library providing a lazily filled Cell struct
 
 # Upstream license specification: MIT/Apache-2.0
